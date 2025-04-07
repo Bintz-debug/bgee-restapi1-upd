@@ -1,7 +1,7 @@
 // Site configuration
 export const siteConfig = {
   // Website information
-  name: "BintzGE-ResApi's",
+  name: "BintzGE Rest Api's",
   description: "Simple, modern, and free rest api by BintzGE",
   version: "2.0",
   status: "online", // "online" or "offline"
